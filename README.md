@@ -2,7 +2,7 @@
 
 ## Programa para criptografar textos
 
-### Desafio proposto pela Alura para trilha iniciante em programação
+### Desafio proposto pela Alura para trilha iniciante em programação (projeto Desktop)
 
 <h3 align="left">Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> 
